@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\chat",
+    "\\chatapplication",
+    "\\chat\\templates",
+    "\\templates",
+    "\\templates\\main",
+    "\\user"
+  ],
+  "SelectedNode": "\\chatapplication\\urls.py",
+  "PreviewInSolutionExplorer": false
+}
